@@ -1,11 +1,12 @@
 <h1 align="left">Hello!✋ I'm Henrique Abner</h1>
 <h3 align="left">A computer technician in progress...</h3>
 
-- ⚙️ I am currently working on [Ciné](http://bit.ly/3lFHIrF)
+
+- ⚙️ I am currently working on **[Ciné](http://bit.ly/3lFHIrF)**
 
 - ✏️ I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)
+- 👨‍💻 All of my projects are available at **[http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)**
 
 - 📫 How to reach me **https://bit.ly/3FRsd6N**
 
