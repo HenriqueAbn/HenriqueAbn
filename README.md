@@ -1,5 +1,5 @@
-<h1 align="center">Hello!✋ I'm Henrique Abner</h1>
-<h3 align="center">A computer technician in progress...</h3>
+<h1 align="left">Hello!✋ I'm Henrique Abner</h1>
+<h3 align="left">A computer technician in progress...</h3>
 
 - ⚙️ I am currently working on [Ciné](http://bit.ly/3lFHIrF)
 
