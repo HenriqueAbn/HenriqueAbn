@@ -1,7 +1,7 @@
 <h1 align="left">Olá!✋ Eu sou Henrique Abner</h1>
 <h3 align="left">Um técnico em informática em constante progresso!</h3>
 
-<img src="https://user-images.githubusercontent.com/102832927/229260665-a5866284-e76a-43b8-afc5-0f71446c6098.gif" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://user-images.githubusercontent.com/102832927/229260665-a5866284-e76a-43b8-afc5-0f71446c6098.gif" min-width="250px" max-width="250px" width="250px" align="right">
 
 - ⚙️ Atualmente estou trabalhando em um **[Projeto Web](http://bit.ly/3lFHIrF)**
 
