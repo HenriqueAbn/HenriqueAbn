@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/102832927/229260665-a5866284-e76a-43b8-afc5-0f71446c6098.gif" min-width="250px" max-width="250px" width="250px" align="right">
 
-- ⚙️ Atualmente estou trabalhando em um **[Projeto Web](http://bit.ly/3lFHIrF)**
+- ⚙️ Atualmente estou trabalhando em um **[Projeto Web](https://github.com/Sapucai-Socket/Cine-Web-Project)**
 
 - ✏️ Estou aprendendo **React.JS** no momento
 
