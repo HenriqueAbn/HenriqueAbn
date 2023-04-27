@@ -6,7 +6,7 @@
 
 - ⚙️ Atualmente estou trabalhando em um **[Projeto Web](https://github.com/Sapucai-Socket/Cine-Web-Project)**
 
-- ✏️ Estou aprendendo **React.JS** no momento
+- ✏️ Estou aprendendo **Python** no momento
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em **[http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)**
 
