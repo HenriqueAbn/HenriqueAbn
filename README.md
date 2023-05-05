@@ -1,6 +1,6 @@
 
-<h3 align="center">Olá! Eu sou Henrique Abner</h3>
-<h5 align="center">A developer in constant progress</h5>
+<h3 align="center">Hi! I'm Henrique Abner ✋</h3>
+<h4 align="center">A developer in constant progress</h4>
 
 - 📚 IT Student
 
