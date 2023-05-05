@@ -4,9 +4,9 @@
 
 - 📚 IT Student
 
-- ⚙️ Now i'm workin on **[Web Project](https://github.com/Sapucai-Socket/Cine-Web-Project)**
+- ⚙️ Now i'm working on a **[Web Project](https://github.com/Sapucai-Socket/Cine-Web-Project)**
 
-- ✏️ Currently i'm learning **Python**
+- ✏️ Currently i'm learning **Python** and **Cloud Services**
 
 - 👨‍💻 All my projects and applications are availble at **[http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)**
 
