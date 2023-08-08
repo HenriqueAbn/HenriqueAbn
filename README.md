@@ -6,7 +6,7 @@
 
 - ⚙️ Now i'm working on a **[Web Project](https://github.com/Sapucai-Socket/New-Website-Movie)**
 
-- ✏️ Currently i'm learning **Python** and **Cloud Services**
+- ✏️ Currently i'm learning **Python**
 
 - 👨‍💻 All my projects and applications are availble at **[http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)**
 
