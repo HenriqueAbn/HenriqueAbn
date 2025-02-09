@@ -8,7 +8,7 @@
 
 - ✏️ Currently i'm learning **C** and **C++**
 
-- 👨‍💻 All my projects and applications are availble at **[here](http://bit.ly/3ZgJ0qX)**
+- 👨‍💻 All my projects and applications are availble **[here](http://bit.ly/3ZgJ0qX)**
 
 <hr>
 
