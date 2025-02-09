@@ -2,13 +2,13 @@
 <h3 align="center">Hi! I'm Henrique Abner ✋</h3>
 <h4 align="center">A developer in constant progress</h4>
 
-- 📚 IT Student
+- 📚 Majoring in Telecommunications Engineering & Computing Technician
 
-- ⚙️ Now i'm working on a **[Web Project](https://github.com/Sapucai-Socket/New-Website-Movie)**
+- ⚙️ My latest work is a **[Web Project](https://github.com/Sapucai-Socket/New-Website-Movie)**
 
-- ✏️ Currently i'm learning **Python**
+- ✏️ Currently i'm learning **C** and **C++**
 
-- 👨‍💻 All my projects and applications are availble at **[http://bit.ly/3ZgJ0qX](http://bit.ly/3ZgJ0qX)**
+- 👨‍💻 All my projects and applications are availble at **[here](http://bit.ly/3ZgJ0qX)**
 
 <hr>
 
