@@ -2,7 +2,7 @@
 <h3 align="center">Hi! I'm Henrique Abner ✋</h3>
 <h4 align="center">A developer in constant progress</h4>
 
-- 📚 Majoring in Telecommunications Engineering & Computing Technician
+- 📚 I am Majoring in Telecommunications Engineering. I'm also a Computing Technician. 
 
 - ⚙️ My latest work is a **[Web Project](https://github.com/Sapucai-Socket/New-Website-Movie)**
 
