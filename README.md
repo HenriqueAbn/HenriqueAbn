@@ -9,13 +9,7 @@
 - ✏️ Currently i'm learning **C** and **C++**
 
 - 👨‍💻 All my projects and applications are availble **[here](http://bit.ly/3ZgJ0qX)**
-
 <hr>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueabn&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=20" alt="henriqueabn" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqueabn&show_icons=true&theme=github_dark&locale=en&border_radius=20" alt="henriqueabn" /></p>
-
-
 <h4 align="center">Languages and tools I use</h4>
 
 <p align="center">
